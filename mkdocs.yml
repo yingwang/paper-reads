@@ -49,6 +49,13 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/yingwang
+  alternate:
+    - name: 中文
+      link: /paper-reads/
+      lang: zh
+    - name: English
+      link: /paper-reads/en/
+      lang: en
 
 markdown_extensions:
   - admonition
@@ -92,6 +99,14 @@ plugins:
         - en
         - zh
   - awesome-pages
+
+nav:
+  - 中文:
+    - 首页: index.md
+    - 论文: papers
+  - English:
+    - Home: en/index.md
+    - Papers: en/papers
 
 copyright: |
   Copyright &copy; 2026 Ying Wang —
