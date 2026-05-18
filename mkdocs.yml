@@ -103,10 +103,16 @@ plugins:
 nav:
   - 中文:
     - 首页: index.md
-    - 论文: papers
+    - 论文:
+      - 列表: papers/index.md
+      - 2026-05-18 — MMSkills：多模态视觉智能体技能: papers/2026-05-18-mmskills-multimodal-skills-visual-agents.md
+      - 2026-05-17 — 奥赛金牌级推理的简单统一扩展: papers/2026-05-17-gold-medal-olympiad-reasoning.md
   - English:
     - Home: en/index.md
-    - Papers: en/papers
+    - Papers:
+      - List: en/papers/index.md
+      - 2026-05-18 — MMSkills - Multimodal Skills for Visual Agents: en/papers/2026-05-18-mmskills-multimodal-skills-visual-agents.md
+      - 2026-05-17 — Gold-Medal Olympiad Reasoning: en/papers/2026-05-17-gold-medal-olympiad-reasoning.md
 
 copyright: |
   Copyright &copy; 2026 Ying Wang —
