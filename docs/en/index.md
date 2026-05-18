@@ -15,6 +15,4 @@ Each note closes with a `One Sentence` line under 60 words, intended as a readin
 
 A daily cron pulls the top trending paper, produces the close reading in the four-section template, archives it locally, and pushes it to this repository. The skill that drives this lives in [yingwang/claude-skills](https://github.com/yingwang/claude-skills).
 
-## List
-
-Latest first.
+The full list of papers is in the left-hand sidebar, sorted by date with the newest on top. Click any title to read.

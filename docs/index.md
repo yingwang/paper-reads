@@ -15,6 +15,4 @@
 
 源头是一条定时任务，每天早晨抓 huggingface daily papers 当日榜首，按四段结构精读、归档、push 到本仓库。生成路径由 [yingwang/claude-skills](https://github.com/yingwang/claude-skills) 里的 `paper-read` skill 控制。
 
-## 列表
-
-最新在前。
+左侧目录直接列出所有论文，按日期降序排，点开即读。
