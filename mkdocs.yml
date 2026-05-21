@@ -103,12 +103,14 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-05-21 — LiBrA-Net：实时 4K 视频去雾: papers/2026-05-21-libra-net-real-time-4k-video-dehazing.md
     - 2026-05-21 — OScaR：极致 KV 缓存量化的奥卡姆剃刀方案: papers/2026-05-21-oscar-extreme-kv-cache-quantization.md
     - 2026-05-19 — LongLive-2.0 用 NVFP4 并行底座做长视频生成: papers/2026-05-19-longlive-2-nvfp4-parallel-infra-long-video.md
     - 2026-05-18 — MMSkills：多模态视觉智能体技能: papers/2026-05-18-mmskills-multimodal-skills-visual-agents.md
     - 2026-05-17 — 奥赛金牌级推理的简单统一扩展: papers/2026-05-17-gold-medal-olympiad-reasoning.md
   - English:
     - Latest: en/index.md
+    - 2026-05-21 — LiBrA-Net Real-Time 4K Video Dehazing: en/papers/2026-05-21-libra-net-real-time-4k-video-dehazing.md
     - 2026-05-21 — OScaR - Occam's Razor for Extreme KV Cache Quantization: en/papers/2026-05-21-oscar-extreme-kv-cache-quantization.md
     - 2026-05-19 — LongLive-2.0 NVFP4 Parallel Infrastructure for Long Video: en/papers/2026-05-19-longlive-2-nvfp4-parallel-infra-long-video.md
     - 2026-05-18 — MMSkills - Multimodal Skills for Visual Agents: en/papers/2026-05-18-mmskills-multimodal-skills-visual-agents.md
