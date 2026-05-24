@@ -103,6 +103,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-05-24 — DelTA：判别式 token 信用分配重塑 RLVR: papers/2026-05-24-delta-discriminative-token-credit-assignment-rlvr.md
     - 2026-05-23 — TransitLM：无地图公交路径生成: papers/2026-05-23-transitlm-map-free-transit-route-generation.md
     - 2026-05-22 — π-Bench：主动型个人助理 agent 评估: papers/2026-05-22-pi-bench-proactive-personal-assistant.md
     - 2026-05-21 — LiBrA-Net：实时 4K 视频去雾: papers/2026-05-21-libra-net-real-time-4k-video-dehazing.md
@@ -112,6 +113,7 @@ nav:
     - 2026-05-17 — 奥赛金牌级推理的简单统一扩展: papers/2026-05-17-gold-medal-olympiad-reasoning.md
   - English:
     - Latest: en/index.md
+    - 2026-05-24 — DelTA - Discriminative Token Credit Assignment for RLVR: en/papers/2026-05-24-delta-discriminative-token-credit-assignment-rlvr.md
     - 2026-05-23 — TransitLM - Map-Free Transit Route Generation: en/papers/2026-05-23-transitlm-map-free-transit-route-generation.md
     - 2026-05-22 — π-Bench - Proactive Personal Assistant Agents: en/papers/2026-05-22-pi-bench-proactive-personal-assistant.md
     - 2026-05-21 — LiBrA-Net Real-Time 4K Video Dehazing: en/papers/2026-05-21-libra-net-real-time-4k-video-dehazing.md
