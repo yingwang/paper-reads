@@ -103,6 +103,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-05-26 — DVAO：用奖励方差给多目标 RL 当动态权重: papers/2026-05-26-dvao-variance-adaptive-multi-reward-grpo.md
     - 2026-05-25 — SkillOpt：让 agent 技能像权重一样被训练: papers/2026-05-25-skillopt-self-evolving-agent-skills.md
     - 2026-05-24 — DelTA：判别式 token 信用分配重塑 RLVR: papers/2026-05-24-delta-discriminative-token-credit-assignment-rlvr.md
     - 2026-05-23 — TransitLM：无地图公交路径生成: papers/2026-05-23-transitlm-map-free-transit-route-generation.md
@@ -114,6 +115,7 @@ nav:
     - 2026-05-17 — 奥赛金牌级推理的简单统一扩展: papers/2026-05-17-gold-medal-olympiad-reasoning.md
   - English:
     - Latest: en/index.md
+    - 2026-05-26 — DVAO - Reward Variance as Dynamic Weights for Multi-objective GRPO: en/papers/2026-05-26-dvao-variance-adaptive-multi-reward-grpo.md
     - 2026-05-25 — SkillOpt - Executive Strategy for Self-Evolving Agent Skills: en/papers/2026-05-25-skillopt-self-evolving-agent-skills.md
     - 2026-05-24 — DelTA - Discriminative Token Credit Assignment for RLVR: en/papers/2026-05-24-delta-discriminative-token-credit-assignment-rlvr.md
     - 2026-05-23 — TransitLM - Map-Free Transit Route Generation: en/papers/2026-05-23-transitlm-map-free-transit-route-generation.md
