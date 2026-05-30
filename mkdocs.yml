@@ -103,6 +103,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-05-30 — Qwen-VLA：统一跨任务跨形态的视觉-语言-动作模型: papers/2026-05-30-qwen-vla-unified-embodied-foundation-model.md
     - 2026-05-29 — AgentDoG 1.5：约千条样本训出的轻量智能体安全护栏: papers/2026-05-29-agentdog-agent-safety-alignment.md
     - 2026-05-27 — LocateAnything：把检测框当作原子单位并行解码: papers/2026-05-27-locateanything-parallel-box-decoding.md
     - 2026-05-26 — DVAO：用奖励方差给多目标 RL 当动态权重: papers/2026-05-26-dvao-variance-adaptive-multi-reward-grpo.md
