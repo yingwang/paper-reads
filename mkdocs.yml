@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-06-01 — COLLEAGUE.SKILL：从踪迹蒸馏出可检查可纠正的技能包: papers/2026-06-01-colleague-skill-person-grounded-skill-distillation.md
     - 2026-05-31 — OmniRetrieval：在异构知识源之上架一层统一检索: papers/2026-05-31-omniretrieval-unified-heterogeneous-retrieval.md
     - 2026-05-30 — Qwen-VLA：统一跨任务跨形态的视觉-语言-动作模型: papers/2026-05-30-qwen-vla-unified-embodied-foundation-model.md
     - 2026-05-29 — AgentDoG 1.5：约千条样本训出的轻量智能体安全护栏: papers/2026-05-29-agentdog-agent-safety-alignment.md
