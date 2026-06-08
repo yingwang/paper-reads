@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-06-08 — 解嵌入矩阵是文本嵌入的特征透镜：EmbedFilter 滤掉高频词子空间: papers/2026-06-08-unembedding-matrix-feature-lens-embedfilter.md
     - 2026-06-06 — Code2LoRA：用超网络为代码仓库即时生成可演化的 LoRA: papers/2026-06-06-code2lora-hypernetwork-repo-adapters.md
     - 2026-06-05 — ArcANE：角色扮演智能体在对的时刻还演对人吗: papers/2026-06-05-arcane-arc-aware-narrative-evaluation.md
     - 2026-06-04 — Cosmos 3：面向物理 AI 的全模态世界模型: papers/2026-06-04-cosmos-3-omnimodal-world-models.md
@@ -126,6 +127,7 @@ nav:
     - 2026-05-17 — 奥赛金牌级推理的简单统一扩展: papers/2026-05-17-gold-medal-olympiad-reasoning.md
   - English:
     - Latest: en/index.md
+    - 2026-06-08 — Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings: en/papers/2026-06-08-unembedding-matrix-feature-lens-embedfilter.md
     - 2026-06-06 — Code2LoRA - Hypernetwork-Generated Adapters under Software Evolution: en/papers/2026-06-06-code2lora-hypernetwork-repo-adapters.md
     - 2026-06-05 — ArcANE - Do Role-Playing Language Agents Stay in Character at the Right Time?: en/papers/2026-06-05-arcane-arc-aware-narrative-evaluation.md
     - 2026-06-04 — Cosmos 3 - Omnimodal World Models for Physical AI: en/papers/2026-06-04-cosmos-3-omnimodal-world-models.md
