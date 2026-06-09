@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-06-09 — SWE-Explore：把仓库探索从修 bug 里拆出来单独考: papers/2026-06-09-swe-explore-benchmarking-repository-exploration.md
     - 2026-06-08 — 解嵌入矩阵是文本嵌入的特征透镜：EmbedFilter 滤掉高频词子空间: papers/2026-06-08-unembedding-matrix-feature-lens-embedfilter.md
     - 2026-06-06 — Code2LoRA：用超网络为代码仓库即时生成可演化的 LoRA: papers/2026-06-06-code2lora-hypernetwork-repo-adapters.md
     - 2026-06-05 — ArcANE：角色扮演智能体在对的时刻还演对人吗: papers/2026-06-05-arcane-arc-aware-narrative-evaluation.md
@@ -127,6 +128,7 @@ nav:
     - 2026-05-17 — 奥赛金牌级推理的简单统一扩展: papers/2026-05-17-gold-medal-olympiad-reasoning.md
   - English:
     - Latest: en/index.md
+    - 2026-06-09 — SWE-Explore - Benchmarking How Coding Agents Explore Repositories: en/papers/2026-06-09-swe-explore-benchmarking-repository-exploration.md
     - 2026-06-08 — Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings: en/papers/2026-06-08-unembedding-matrix-feature-lens-embedfilter.md
     - 2026-06-06 — Code2LoRA - Hypernetwork-Generated Adapters under Software Evolution: en/papers/2026-06-06-code2lora-hypernetwork-repo-adapters.md
     - 2026-06-05 — ArcANE - Do Role-Playing Language Agents Stay in Character at the Right Time?: en/papers/2026-06-05-arcane-arc-aware-narrative-evaluation.md
