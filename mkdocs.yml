@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-06-16 — VibeThinker-3B：把可验证推理推到小模型的边界: papers/2026-06-16-vibethinker-3b-verifiable-reasoning-small-models.md
     - 2026-06-15 — APPO：把智能体 RL 的信用分配下沉到细粒度决策点: papers/2026-06-15-appo-agentic-procedural-policy-optimization.md
     - 2026-06-14 — MiniMax 稀疏注意力：在 GQA 上按组选块的可训练稀疏: papers/2026-06-14-minimax-sparse-attention.md
     - 2026-06-12 — EvoArena：让智能体的记忆跟上环境的演化: papers/2026-06-12-evoarena-memory-evolution-llm-agents.md
