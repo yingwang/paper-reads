@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-06-21 — 会玩的机器人：先自己玩一阵再去干活: papers/2026-06-21-playful-agentic-robot-learning.md
     - 2026-06-20 — DragMesh-2：让灵巧手通过接触拉动铰接物体: papers/2026-06-20-dragmesh-2-articulated-dexterous-interaction.md
     - 2026-06-19 — Moebius：用 0.2B 参数做出 10B 级别的图像修复: papers/2026-06-19-moebius-lightweight-inpainting.md
     - 2026-06-18 — Kairos：面向物理 AI 的原生世界模型栈: papers/2026-06-18-kairos-native-world-model-stack-physical-ai.md
