@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-06-22 — GateMem：为多主体共享记忆做一套记忆治理基准: papers/2026-06-22-gatemem-memory-governance.md
     - 2026-06-21 — 会玩的机器人：先自己玩一阵再去干活: papers/2026-06-21-playful-agentic-robot-learning.md
     - 2026-06-20 — DragMesh-2：让灵巧手通过接触拉动铰接物体: papers/2026-06-20-dragmesh-2-articulated-dexterous-interaction.md
     - 2026-06-19 — Moebius：用 0.2B 参数做出 10B 级别的图像修复: papers/2026-06-19-moebius-lightweight-inpainting.md
