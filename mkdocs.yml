@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-06-23 — GLM-5：从氛围编程走向自主体工程: papers/2026-06-23-glm-5-agentic-engineering.md
     - 2026-06-22 — GateMem：为多主体共享记忆做一套记忆治理基准: papers/2026-06-22-gatemem-memory-governance.md
     - 2026-06-21 — 会玩的机器人：先自己玩一阵再去干活: papers/2026-06-21-playful-agentic-robot-learning.md
     - 2026-06-20 — DragMesh-2：让灵巧手通过接触拉动铰接物体: papers/2026-06-20-dragmesh-2-articulated-dexterous-interaction.md
