@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-06-26 — DanceOPD：用在线场蒸馏把多种图像能力合进一个流匹配模型: papers/2026-06-26-danceopd-on-policy-generative-field-distillation.md
     - 2026-06-25 — 超越自然语言转代码：多模态代码智能的结构化综述: papers/2026-06-25-multimodal-code-intelligence-survey.md
     - 2026-06-24 — Qwen-AgentWorld：用语言世界模型训练智能体: papers/2026-06-24-qwen-agentworld-language-world-models.md
     - 2026-06-23 — PlanBench-XL：工具多到看不全时的长程规划: papers/2026-06-23-planbench-xl-tool-use-planning.md
