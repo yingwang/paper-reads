@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-07-01 — Orca：用「下一状态预测」把理解、预测和行动统一进一个世界潜空间: papers/2026-07-01-orca-world-foundation-model-next-state-prediction.md
     - 2026-06-30 — LiveEdit：把扩散视频编辑做到边看边改、逐帧实时: papers/2026-06-30-liveedit-real-time-streaming-video-editing.md
     - 2026-06-27 — 上下文世界建模：机器人执行任务前先试探着摸清自己所处的系统: papers/2026-06-27-icwm-in-context-world-modeling-robotic-control.md
     - 2026-06-26 — DanceOPD：用在线场蒸馏把多种图像能力合进一个流匹配模型: papers/2026-06-26-danceopd-on-policy-generative-field-distillation.md
