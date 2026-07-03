@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-07-03 — 程序即权重：把自然语言规格编译成小模型的 LoRA 权重: papers/2026-07-03-program-as-weights-fuzzy-functions.md
     - 2026-07-02 — TurboServe：为「边生成边看」的流式视频生成搭一套又快又省的在线调度服务: papers/2026-07-02-turboserve-streaming-video-generation-serving.md
     - 2026-07-01 — Orca：用「下一状态预测」把理解、预测和行动统一进一个世界潜空间: papers/2026-07-01-orca-world-foundation-model-next-state-prediction.md
     - 2026-06-30 — LiveEdit：把扩散视频编辑做到边看边改、逐帧实时: papers/2026-06-30-liveedit-real-time-streaming-video-editing.md
