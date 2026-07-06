@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-07-06 — VLA-Corrector：给动作分块的机器人策略装一个会喊停的视觉监视器: papers/2026-07-06-vla-corrector.md
     - 2026-07-05 — AgenticSTS：给长程 LLM 智能体的有界记忆测试床: papers/2026-07-05-agenticsts-bounded-memory-testbed.md
     - 2026-07-04 — EvoPolicyGym：评测编码智能体能否在固定预算下把可执行 RL 策略越改越好: papers/2026-07-04-evopolicygym-autonomous-policy-evolution.md
     - 2026-07-03 — 程序即权重：把自然语言规格编译成小模型的 LoRA 权重: papers/2026-07-03-program-as-weights-fuzzy-functions.md
