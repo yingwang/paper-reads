@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-07-09 — LingBot-Video：面向具身智能的混合专家视频预训练: papers/2026-07-09-lingbot-video-moe-embodied-pretraining.md
     - 2026-07-08 — AlayaWorld：长时程可游玩的视频世界生成开源全栈框架: papers/2026-07-08-alayaworld.md
     - 2026-07-07 — UI-MOPD：把桌面与手机装进同一个 8B 学生的多教师在线蒸馏: papers/2026-07-07-ui-mopd-multi-platform-on-policy-distillation.md
     - 2026-07-06 — VLA-Corrector：给动作分块的机器人策略装一个会喊停的视觉监视器: papers/2026-07-06-vla-corrector.md
