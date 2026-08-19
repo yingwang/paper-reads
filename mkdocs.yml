@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-08-19 — ASI-Bench：人工超级智能的前夜: papers/2026-08-19-asi-bench-autonomous-science.md
     - 2026-08-18 — MegaParts：把部件级三维生成推到 300 个部件: papers/2026-08-18-megaparts-part-aware-3d-generation.md
     - 2026-08-17 — RA-Bench：真实危机事件的 AI 生成视频能否被检出: papers/2026-08-17-ra-bench-crisis-video-detection.md
     - 2026-07-09 — LingBot-Video：面向具身智能的混合专家视频预训练: papers/2026-07-09-lingbot-video-moe-embodied-pretraining.md
