@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-08-22 — FACET：让合成的终端任务真的可解: papers/2026-08-22-facet-terminal-task-synthesis.md
     - 2026-08-21 — EnvHarness：让环境迎着智能体的弱点长: papers/2026-08-21-envharness-awakening-static-worlds.md
     - 2026-08-20 — Zetta：让具身脚手架自己演化: papers/2026-08-20-zetta-closed-loop-embodied-harness.md
     - 2026-08-19 — ASI-Bench：人工超级智能的前夜: papers/2026-08-19-asi-bench-autonomous-science.md
