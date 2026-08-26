@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-08-26 — 把标注当作 rollout：视频 MLLM 的高效强化学习: papers/2026-08-26-annotations-as-rollouts-orarl.md
     - 2026-08-25 — Apodex 1.1：把智能体推向复杂工作: papers/2026-08-25-apodex-1-1-agentic-intelligence.md
     - 2026-08-24 — OmniAssistBench 助手式交互评测: papers/2026-08-24-omniassistbench-assistant-interaction.md
     - 2026-08-23 — 4DAnyone：从单目视频重建 4D 人物: papers/2026-08-23-4danyone-monocular-4d-human.md
