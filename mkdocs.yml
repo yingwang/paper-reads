@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-08-31 — 代码即世界：可执行世界表示: papers/2026-08-31-code-as-world.md
     - 2026-08-30 — UrbanGround：真实尺度城市中的空间能动性: papers/2026-08-30-urbanground-spatial-agency-city.md
     - 2026-08-29 — 把游戏开发变成可验证的轨迹数据引擎: papers/2026-08-29-agentic-game-development-trajectory-engine.md
     - 2026-08-28 — PAWBench：视频生成模型的概率对齐: papers/2026-08-28-pawbench-probabilistic-alignment.md
