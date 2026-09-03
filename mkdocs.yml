@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-09-03 — Repo-To-Skill：把 GitHub 仓库蒸馏成技能: papers/2026-09-03-repo-to-skill-disco.md
     - 2026-09-02 — StudentSim：训练基于大语言模型的学生模拟器: papers/2026-09-02-studentsim-llm-student-simulators.md
     - 2026-09-01 — DreamX-Creator：原生音视频联合生成: papers/2026-09-01-dreamx-creator-native-audio-video.md
     - 2026-08-31 — 代码即世界：可执行世界表示: papers/2026-08-31-code-as-world.md
