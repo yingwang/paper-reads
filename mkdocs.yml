@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-09-05 — 训练即编译：把自然语言规格变成本地神经函数: papers/2026-09-05-compile-by-training.md
     - 2026-09-04 — LLaDA-Image：用完全公开的配方训练图像生成器: papers/2026-09-04-llada-image-open-recipes.md
     - 2026-09-03 — Repo-To-Skill：把 GitHub 仓库蒸馏成技能: papers/2026-09-03-repo-to-skill-disco.md
     - 2026-09-02 — StudentSim：训练基于大语言模型的学生模拟器: papers/2026-09-02-studentsim-llm-student-simulators.md
