@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-09-13 — NCP-ArchPreview：用「下一个概念预测」走向潜空间语言模型: papers/2026-09-13-ncp-archpreview.md
     - 2026-09-07 — Iris：攀向搜索前沿: papers/2026-09-07-iris-climbing-search-frontier.md
     - 2026-09-06 — Terminal-Universe：把智能体轨迹变回可反复使用的终端环境: papers/2026-09-06-terminal-universe.md
     - 2026-09-05 — 训练即编译：把自然语言规格变成本地神经函数: papers/2026-09-05-compile-by-training.md
