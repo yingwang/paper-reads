@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-09-16 — 持续学习机制的组合与长程记忆: papers/2026-09-16-compose-continual-learning-long-horizon-memorization.md
     - 2026-09-15 — Vidu S2 实时交互视频生成: papers/2026-09-15-vidu-s2-realtime-interactive-video.md
     - 2026-09-14 — Benchmark Radar 活基准数据库: papers/2026-09-14-benchmark-radar-living-database.md
     - 2026-09-13 — NCP-ArchPreview：用「下一个概念预测」走向潜空间语言模型: papers/2026-09-13-ncp-archpreview.md
