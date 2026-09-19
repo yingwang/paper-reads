@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-09-19 — DeepSeek-V4.1-Flash：把 KV 缓存压到每词元 890 字节: papers/2026-09-19-deepseek-v41-flash-kv-cache.md
     - 2026-09-18 — SoL-Pi：递归放大自动研究循环，做出更省 token 的 agent harness: papers/2026-09-18-sol-pi-auto-research-harness.md
     - 2026-09-17 — ScienceIDE：把科学代码库变成智能体环境: papers/2026-09-17-scienceide-scientific-codebase-agent-environments.md
     - 2026-09-16 — 持续学习机制的组合与长程记忆: papers/2026-09-16-compose-continual-learning-long-horizon-memorization.md
