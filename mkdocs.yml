@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-09-21 — EvoOntology 自进化本体层: papers/2026-09-21-evoontology-self-evolving-ontology-data-agents.md
     - 2026-09-20 — MiniMax-H3 能对物理世界做推理吗：全模态生成模型的评测: papers/2026-09-20-minimax-h3-physical-world-reasoning.md
     - 2026-09-19 — DeepSeek-V4.1-Flash：把 KV 缓存压到每词元 890 字节: papers/2026-09-19-deepseek-v41-flash-kv-cache.md
     - 2026-09-18 — SoL-Pi：递归放大自动研究循环，做出更省 token 的 agent harness: papers/2026-09-18-sol-pi-auto-research-harness.md
