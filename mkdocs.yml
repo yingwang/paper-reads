@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-09-26 — Transformer 中的线性叠加: papers/2026-09-26-transformer-linear-superposition-two-streams.md
     - 2026-09-25 — 在世界模型里训练客体永久性: papers/2026-09-25-training-object-permanence-world-models.md
     - 2026-09-24 — HappyWorld-Bench 世界模型统一基准: papers/2026-09-24-happyworld-bench-world-model-reliability.md
     - 2026-09-23 — RULER 逐例评分细则奖励: papers/2026-09-23-ruler-instance-aware-rubric-rewards-svg.md
