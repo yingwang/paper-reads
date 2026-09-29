@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-09-29 — MassAlloc 注意力: papers/2026-09-29-massalloc-attention-mala.md
     - 2026-09-28 — FuseReg 层融合正则化: papers/2026-09-28-fusereg-layer-fusion-regularization-rae.md
     - 2026-09-27 — WanPE 电影化提示词增强: papers/2026-09-27-wanpe-cinematic-prompt-enhancement.md
     - 2026-09-26 — Transformer 中的线性叠加: papers/2026-09-26-transformer-linear-superposition-two-streams.md
