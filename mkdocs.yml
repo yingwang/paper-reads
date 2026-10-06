@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-10-06 — RealCompanion 真实长期对话检验 AI 陪伴者: papers/2026-10-06-realcompanion-longitudinal-companion-benchmark.md
     - 2026-10-05 — MotorMind 通用视觉语言模型零样本操控机械臂: papers/2026-10-05-motormind-vlm-harness-zero-shot-manipulation.md
     - 2026-10-04 — 同策略还是异策略 蒸馏动力学: papers/2026-10-04-on-policy-or-off-policy-distillation-dynamics.md
     - 2026-10-03 — OneStreamer 流式视频记忆与主动响应: papers/2026-10-03-onestreamer-streaming-video-memory-proactive.md
