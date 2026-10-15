@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-10-15 — Player-1 从合成经验学游戏控制: papers/2026-10-15-player-1-game-control-synthetic-experience.md
     - 2026-10-14 — Urbex 城市级三维定位的主动搜索: papers/2026-10-14-urbex-agentic-city-scale-3d-grounding.md
     - 2026-10-13 — TerminalHorizon 长程终端智能体数据: papers/2026-10-13-terminalhorizon-long-horizon-terminal-agents.md
     - 2026-10-12 — ProgramGym 程序复刻训练场: papers/2026-10-12-programgym-program-reproduction-agents.md
