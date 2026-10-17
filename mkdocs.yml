@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-10-17 — Waypoint-OPD 中途检查点门控的策略偏移蒸馏: papers/2026-10-17-waypoint-opd-gated-policy-shift-distillation.md
     - 2026-10-16 — OmniCompass 全模态视频定位与理解评测: papers/2026-10-16-omnicompass-omni-modal-video-grounding-benchmark.md
     - 2026-10-15 — Player-1 从合成经验学游戏控制: papers/2026-10-15-player-1-game-control-synthetic-experience.md
     - 2026-10-14 — Urbex 城市级三维定位的主动搜索: papers/2026-10-14-urbex-agentic-city-scale-3d-grounding.md
