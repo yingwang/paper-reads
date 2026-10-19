@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-10-19 — GPT-6-Astra 已经具备具身智能了吗: papers/2026-10-19-gpt6-astra-embodied-intelligence-report.md
     - 2026-10-17 — Waypoint-OPD 中途检查点门控的策略偏移蒸馏: papers/2026-10-17-waypoint-opd-gated-policy-shift-distillation.md
     - 2026-10-16 — OmniCompass 全模态视频定位与理解评测: papers/2026-10-16-omnicompass-omni-modal-video-grounding-benchmark.md
     - 2026-10-15 — Player-1 从合成经验学游戏控制: papers/2026-10-15-player-1-game-control-synthetic-experience.md
