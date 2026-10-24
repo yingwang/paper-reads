@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-10-24 — WeVisOne-VL 从物体到像素的统一视觉感知: papers/2026-10-24-wevisone-vl-unified-visual-perception.md
     - 2026-10-23 — OpenDS-World 真实网络深度搜索: papers/2026-10-23-opends-world-deep-search-real-world-web.md
     - 2026-10-22 — StreamEval 可交互流式视频生成评测: papers/2026-10-22-streameval-interactive-streaming-video-generation-benchmark.md
     - 2026-10-21 — FocusGUI 聚焦感知的全模态 GUI 智能体: papers/2026-10-21-focusgui-focused-omni-modal-gui-agents.md
