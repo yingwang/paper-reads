@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-10-26 — UserArena 长程购物智能体的用户模拟评测: papers/2026-10-26-userarena-interactive-user-simulation-shopping-agents.md
     - 2026-10-25 — LayerEditor 把图像编辑成可复用的图层: papers/2026-10-25-layereditor-editing-images-into-reusable-layers.md
     - 2026-10-24 — WeVisOne-VL 从物体到像素的统一视觉感知: papers/2026-10-24-wevisone-vl-unified-visual-perception.md
     - 2026-10-23 — OpenDS-World 真实网络深度搜索: papers/2026-10-23-opends-world-deep-search-real-world-web.md
