@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-10-28 — ChronoReplay 流式空间智能的多接口训练: papers/2026-10-28-chronoreplay-streaming-spatial-intelligence.md
     - 2026-10-27 — Trajectory2Gym 工具调用智能体的可学交互构造: papers/2026-10-27-trajectory2gym-decision-grounded-interaction-synthesis.md
     - 2026-10-26 — UserArena 长程购物智能体的用户模拟评测: papers/2026-10-26-userarena-interactive-user-simulation-shopping-agents.md
     - 2026-10-25 — LayerEditor 把图像编辑成可复用的图层: papers/2026-10-25-layereditor-editing-images-into-reusable-layers.md
