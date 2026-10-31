@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-10-31 — A-RSI 训练日志决定何时换题的零数据自我改进: papers/2026-10-31-a-rsi-adaptive-task-refresh-zero-data-self-improvement.md
     - 2026-10-30 — IDM 内生分布匹配的少步文生图训练: papers/2026-10-30-idm-intrinsic-distribution-matching.md
     - 2026-10-29 — DTCA 扩散语言模型强化学习的逐词元功劳分配: papers/2026-10-29-dtca-denoising-token-credit-assignment-dlm.md
     - 2026-10-28 — ChronoReplay 流式空间智能的多接口训练: papers/2026-10-28-chronoreplay-streaming-spatial-intelligence.md
