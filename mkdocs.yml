@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-11-03 — Wave Forcing 多卡流水线化的流式视频生成: papers/2026-11-03-wave-forcing-streaming-video-generation.md
     - 2026-11-02 — 先估值再付费：System-1 决定 System-2 执行什么: papers/2026-11-02-system1-gates-system2-conditional-interaction.md
     - 2026-11-01 — LOWN 只在需要时看图的扩散视觉语言模型解码: papers/2026-11-01-lown-certificate-guided-visual-routing-diffusion-vlm.md
     - 2026-10-31 — A-RSI 训练日志决定何时换题的零数据自我改进: papers/2026-10-31-a-rsi-adaptive-task-refresh-zero-data-self-improvement.md
