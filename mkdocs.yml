@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-11-07 — SLA 用持续预训练养出空间理解的机器人基础模型: papers/2026-11-07-sla-spatial-language-action-continual-pretraining.md
     - 2026-11-06 — VFlash 一次前向画出整条轨迹的视觉规划: papers/2026-11-06-vflash-flash-primitive-decoding-visual-planning.md
     - 2026-11-05 — GameVerse 分钟级游戏视频数据集: papers/2026-11-05-gameverse-minute-scale-gameplay-dataset.md
     - 2026-11-04 — Route Anything 跨模态的模型与策略路由: papers/2026-11-04-route-anything-model-policy-routing.md
