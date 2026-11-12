@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-11-12 — TOME-Math 从结构化教材构造数学证明监督: papers/2026-11-12-tome-math-structured-textbook-proof-supervision.md
     - 2026-11-11 — dNaViT 离散码能不能做通用的视觉表示: papers/2026-11-11-dnavit-discrete-codes-general-purpose-visual-representations.md
     - 2026-11-10 — WorldFoundry 面向世界智能的统一基础设施: papers/2026-11-10-worldfoundry-unified-infrastructure-world-intelligence.md
     - 2026-11-09 — SplatAnything 用高斯间距归一化让前馈式 3DGS 适配任意场景: papers/2026-11-09-splatanything-gaussian-spacing-normalization-feedforward-3dgs.md
