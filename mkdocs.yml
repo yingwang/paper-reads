@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-11-16 — Gamer 米哈游实时键鼠游戏智能体: papers/2026-11-16-gamer-generalist-vla-real-time-game-agent.md
     - 2026-11-15 — PhysLoop 借大模型物理常识造视频物理数据与修片: papers/2026-11-15-physloop-llm-physics-harness-video-self-improvement.md
     - 2026-11-14 — SO-Arena 系统一决策模型的能力与可靠性评测: papers/2026-11-14-so-arena-system-one-capability-reliability.md
     - 2026-11-13 — BirdDreams 联合生成前视与鸟瞰视频的驾驶世界模型: papers/2026-11-13-birddreams-joint-perspective-bev-driving-world-model.md
