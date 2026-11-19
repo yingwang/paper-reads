@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-11-19 — Jeveration 系统一决策模型一次前向生成图像: papers/2026-11-19-jeveration-system-one-models-generate-images.md
     - 2026-11-18 — 权重空间编程不需要 Transformer: papers/2026-11-18-weight-space-programming-doesnt-need-transformers.md
     - 2026-11-17 — AllocFlow 从原始行情直接生成组合多空仓位: papers/2026-11-17-allocflow-end-to-end-portfolio-flow-matching.md
     - 2026-11-16 — Gamer 米哈游实时键鼠游戏智能体: papers/2026-11-16-gamer-generalist-vla-real-time-game-agent.md
