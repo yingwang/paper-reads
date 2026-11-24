@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-11-24 — Motion Mamba 2.0 长时程人形机器人动作生成: papers/2026-11-24-motion-mamba-2-autoregressive-diffusion-mamba-humanoid-control.md
     - 2026-11-23 — cmHC 用几何收缩平衡多流残差的混合: papers/2026-11-23-cmhc-balancing-stream-mixing-hyper-connections.md
     - 2026-11-22 — WeMM-Video 开源全模态视频理解模型: papers/2026-11-22-wemm-video-open-source-omni-modal-video-understanding.md
     - 2026-11-21 — WeVisForensics 自我进化的视频鉴伪智能体: papers/2026-11-21-wevisforensics-self-evolving-agent-video-detection.md
