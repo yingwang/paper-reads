@@ -104,6 +104,7 @@ plugins:
 nav:
   - 中文:
     - 最新: index.md
+    - 2026-11-28 — Stable GDN-2 用对称擦除稳住线性注意力的循环状态: papers/2026-11-28-stable-gated-deltanet-2-recurrent-state-instability.md
     - 2026-11-27 — OS-Omni 跨六个平台考电脑操作智能体: papers/2026-11-27-os-omni-cross-platform-computer-using-agents.md
     - 2026-11-26 — VibeVideoAgent 给编码代理补上看视频的感知回路: papers/2026-11-26-vibevideoagent-perceptual-loop-code-driven-video.md
     - 2026-11-25 — ACAP 异步编程智能体控制一台机器人: papers/2026-11-25-acap-asynchronous-coding-agents-robot-control.md
